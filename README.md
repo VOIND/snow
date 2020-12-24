@@ -5,8 +5,8 @@ Snow of the characters
 ![App](https://github.com/Avantgarde95/asciisnow/blob/master/image/Screenshot.png)
 
 ### Images
-- Cat: <https://avantgarde95.github.io/asciisnow?image=cat>
-- Christmas: <https://avantgarde95.github.io/asciisnow?image=christmas>
+- Cat: <https://voind.github.io/asciisnow?image=cat>
+- Christmas: https://voind.github.io/asciisnow?image=christmas>
 
 ### How to run
 - Run a simple server and open the web browser.
