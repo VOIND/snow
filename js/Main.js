@@ -85,7 +85,7 @@ for (i = 0; i < links.length; i++) {
 }
 
 if (!queryMap.hasOwnProperty('image')) {
-    queryMap.image = 'cat';
+    queryMap.image = 'christmas';
 }
 
 loadImage(imagePathMap[queryMap.image.toLowerCase()], function (image) {
