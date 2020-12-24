@@ -5,8 +5,8 @@ Snow of the characters
 ![App](https://github.com/VOIND/snow/blob/main/image/Screenshot.png)
 
 ### Images
-- Cat: <https://voind.github.io/asciisnow?image=cat>
-- Christmas: <https://voind.github.io/asciisnow?image=christmas>
+- Cat: <https://voind.github.io/snow?image=cat>
+- Christmas: <https://voind.github.io/snow?image=christmas>
 
 ### How to run
 - Run a simple server and open the web browser.
