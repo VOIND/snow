@@ -1,4 +1,4 @@
-# ASCII snow
+# SNOW
 
 Snow of the characters
 
