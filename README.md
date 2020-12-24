@@ -6,7 +6,7 @@ Snow of the characters
 
 ### Images
 - Cat: <https://voind.github.io/asciisnow?image=cat>
-- Christmas: https://voind.github.io/asciisnow?image=christmas>
+- Christmas: <https://voind.github.io/asciisnow?image=christmas>
 
 ### How to run
 - Run a simple server and open the web browser.
