@@ -2,7 +2,7 @@
 
 Snow of the characters
 
-![App](https://github.com/VOIND/asciisnow/blob/main/image/Screenshot.png)
+![App](https://github.com/VOIND/snow/blob/main/image/Screenshot.png)
 
 ### Images
 - Cat: <https://voind.github.io/asciisnow?image=cat>
